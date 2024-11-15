@@ -10,7 +10,7 @@ The Equalizer is a vigilante action-thriller series that first premiered as a TV
 
 ---
 
-## **Main Characters**
+## Main Characters
 
 |      Character           |          Actor          |                      Role                   |
 |--------------------------|-------------------------|---------------------------------------------|
@@ -24,9 +24,13 @@ The Equalizer is a vigilante action-thriller series that first premiered as a TV
 ## Notable Quotes
 
 > Robert McCall: "I am the one who knocks."
+
 > Robert McCall: "If you're in trouble, and you don't know where to turn, look for me. I’ll find you."
+
 > Robert McCall: "You know when you take something... and someone says, 'Don’t take it'? You’ve just crossed a line."
+
 > Teri: "Why are you helping me?"
+
 > Robert McCall: "Because you deserve better."
 
 
